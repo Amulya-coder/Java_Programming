@@ -1,7 +1,6 @@
-import java.util.*;
 import java.util.Scanner;
 
-public class PalindromeCheck {
+public class Palindrome_Check {
 
     public static void main(String[] args) {
         /** Only for number **/
